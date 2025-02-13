@@ -1,2 +1,3 @@
-# Programaci-n-Avanzada
-Códigos realizados a lo largo de la materia de Programación Avanzada, en la carrera de ingeniería Mecatrónica 
+## Programaci-n-Avanzada
+# Códigos realizados a lo largo de la materia de Programación Avanzada, en la carrera de ingeniería Mecatrónica 
+El objetivo del repositorio en GitHub para la materia de Programación Avanzada es servir como un espacio centralizado para almacenar, gestionar y organizar todos los códigos desarrollados a lo largo del curso, junto con sus respectivos reportes. A través del control de versiones, se podrá realizar un seguimiento de los avances, facilitar la corrección de errores y mejorar la colaboración en proyectos grupales. Además, la documentación adecuada del repositorio permitirá estructurar el contenido de manera clara y accesible, contribuyendo a la creación de un portafolio profesional que refleje las habilidades adquiridas en el curso.
